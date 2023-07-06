@@ -58,6 +58,12 @@ function searchWeather()
         case 'Snow':
           image.src = 'Images/snowflake.png';
           break;
+        case 'Wind':
+          image.src = 'Images/wind.png';
+          break;
+        case 'Drizzle':
+          image.src = 'Images/drizzle.png';
+          break;
         default:
         image.src = '';
       }

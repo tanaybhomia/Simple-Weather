@@ -1,5 +1,0 @@
-API Key
-c10c929efe812e6c95319b752e6f243d
-
-Font Awesome Script 
-<script src="https://kit.fontawesome.com/2aaf44e36e.js" crossorigin="anonymous"></script>
