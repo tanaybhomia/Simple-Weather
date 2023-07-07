@@ -3,7 +3,6 @@
 
 ## Screenshot 
 
-![image](https://github.com/tanaybhomia/Simple-Weather/assets/71910027/3eb419b1-910e-4ec2-a207-960b8894d771)
+![image](https://github.com/tanaybhomia/Simple-Weather/assets/71910027/404f27dd-a9ec-461d-b38b-c19beb3a3ece)
 
-![image](https://github.com/tanaybhomia/Simple-Weather/assets/71910027/413e5de7-2477-4dcd-b9bc-8d1774ef798e)
-
+![image](https://github.com/tanaybhomia/Simple-Weather/assets/71910027/702b808a-174a-4064-b722-559d1a3979d0)
