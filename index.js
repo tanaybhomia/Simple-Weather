@@ -64,6 +64,9 @@ function searchWeather()
         case 'Drizzle':
           image.src = 'Images/drizzle.png';
           break;
+        case 'Overcast':
+          image.src = 'Images/overcast.png';
+          break;
         default:
         image.src = '';
       }
